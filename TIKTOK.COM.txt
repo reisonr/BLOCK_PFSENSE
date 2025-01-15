@@ -1,5 +1,7 @@
 # TIKTOK.COM
 
+0.0.0.0 www.tiktok.com
+0.0.0.0 www.tiktok.com/login?lang=es&redirect_url=https%3A%2F%2Fwww.tiktok.com%2Fupload%3Flang%3Des
 0.0.0.0	vm.tiktok.com
 0.0.0.0	newsroom.tiktok.com
 0.0.0.0	support.tiktok.com
