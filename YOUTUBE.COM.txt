@@ -1,5 +1,6 @@
 # YOUTTUBE.COM
 
+0.0.0.0 https://www.youtube.com/
 0.0.0.0	youtube.com
 0.0.0.0	www.youtube.com
 0.0.0.0	img.youtube.com
