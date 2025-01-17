@@ -1,5 +1,6 @@
 # whatsapp web
 
+0.0.0.0 web.whatsapp.com
 0.0.0.0	uaa.whatsappwebwi.icu
 0.0.0.0	whatsappweb.co.id
 0.0.0.0	whatsappweb-pc.com
