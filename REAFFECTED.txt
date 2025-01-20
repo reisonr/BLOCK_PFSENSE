@@ -1,0 +1,9 @@
+# REAFFECTED
+
+0.0.0.0	ecoles-primaires.com
+0.0.0.0	le-coin-des-instits.com
+0.0.0.0	leonardo-france.com
+0.0.0.0	metiers-jeunes.com
+0.0.0.0	mission-culture.org
+0.0.0.0	museedepoche.com
+0.0.0.0	tableau-noir.com

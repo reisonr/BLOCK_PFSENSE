@@ -1,0 +1,14 @@
+# SEXUAL_EDUCATION
+
+0.0.0.0	bishuk.com
+0.0.0.0	blaf.ntic.qc.ca
+0.0.0.0	comment-faire-amour.comment-faire.net
+0.0.0.0	doctissimo.fr
+0.0.0.0	femme-amour-seduction-homme.fr
+0.0.0.0	heterosexualite.blogs.liberation.fr
+0.0.0.0	kinseyconfidential.org
+0.0.0.0	macontraception.fr
+0.0.0.0	masexualite.ca
+0.0.0.0	onsexprime.fr
+0.0.0.0	questionsexualite.fr
+0.0.0.0	sexualityandu.ca

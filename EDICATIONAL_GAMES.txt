@@ -1,0 +1,10 @@
+# EDUCATIONAL_GAMES
+
+0.0.0.0	englishexercises.org
+0.0.0.0	jeux.lulu.pagesperso-orange.fr
+0.0.0.0	logicieleducatif.fr
+0.0.0.0	mathador.fr
+0.0.0.0	primarygames.com
+0.0.0.0	toupty.com
+0.0.0.0	vinzetlou.net
+0.0.0.0	webecolia.fr
