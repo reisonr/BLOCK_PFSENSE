@@ -1,0 +1,6 @@
+# DIALER
+
+0.0.0.0	callrail.com
+0.0.0.0	liverail.com
+0.0.0.0	prankdial.com
+0.0.0.0	prankdial.net
