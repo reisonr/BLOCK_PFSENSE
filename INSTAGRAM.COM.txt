@@ -1,340 +1,340 @@
-help.instagram.com
-privacycenter.instagram.com
-www.instagram.com
-www.growbeyondimagination.com
-www.ajaypatel.com
-m-fallback.instagram.com
-aistudio.instagram.com
-z-p42-static.cdninstagram.com
-instagram.com
-cpcalendars.impactoextremo.cl
-www.justbookacall.com
-instagram-p42-shv-02-iad3.fbcdn.net
-www.impactoextremo.cl
-z-p42-platform.cdninstagram.com
-z-p42-scontent.cdninstagram.com
-i.instagr.am
-z-p42-dragon.cdninstagram.com
-www.diezonce.co
-www.instagr.am
-mail.impactoextremo.cl
-z-p42-reg-e2ee.instagram.com
-www.herenism.com
-z-p42-creative.cdninstagram.com
-blog.familiebrueckner.com
-z-p42-external.cdninstagram.com
-www.pre.impactoextremo.cl
-www.whoknowswho.fun
-upload-ec2.instagram.com
-www.brendarolim.com
-z-p42-video.cdninstagram.com
-b-i.instagram.com
-www.bemestarclinica.odo.b
-help.instagram.com
-platform.instagram.com
-business.instagram.com
-about.instagram.com
-blog.instagram.com
-l.instagram.com
-engineering.instagram.com
-z-p42.www.instagram.com
-privacycenter.instagram.com
-hyperlapse.instagram.com
-help.latest.instagram.com
-graph.instagram.com
-api.instagram.com
-familycenter.instagram.com
-i.instagram.com
-badges.instagram.com
-creators.instagram.com
-secure.instagram.com
-community.instagram.com
-wellbeing.instagram.com
-z-p15.www.instagram.com
-developers.instagram.com
-z-p3.www.instagram.com
-accountscenter.instagram.com
-distilleryimage9.instagram.com
-z-p4.www.instagram.com
-m.instagram.com
-distilleryimage4.ak.instagram.com
-photos-h.ak.instagram.com
-images.instagram.com
-photos-b.ak.instagram.com
-lookaside.instagram.com
-photos-a.ak.instagram.com
-photos-d.ak.instagram.com
-preprod.instagram.com
-photos-f.ak.instagram.com
-photos-e.ak.instagram.com
-distilleryimage6.instagram.com
-distilleryimage10.instagram.com
-z-p15.i.instagram.com
-safety.instagram.com
-images.ak.instagram.com
-videos-g-17.ak.instagram.com
-distilleryimage2.ak.instagram.com
-distilleryvesper4-0.ak.instagram.com
-distilleryvesper3-15.ak.instagram.com
-www.instagram.com
-developers-fallback.instagram.com
-coloredlogs.beta.latest.instagram.com
-z-p4-fallback.graph.instagram.com
-distilleryvesper2-2.ak.instagram.com
-prod-fallback.instagram.com
-www.someprod.instagram.com
-nsecure.latest.instagram.com
-nhelp.latest.instagram.com
-www-fallback.trunkstable.instagram.com
-help.hyperlase.beta.latest.instagram.com
-z-p42-chat-e2ee-fallback.instagram.com
-z-p42-i-fallback.instagram.com
-geo-p15.instagram.com
-z-p42-fallback.www.instagram.com
-reg-e2ee-fallback.instagram.com
-z-p15-fallback.m.instagram.com
-live-upload-staging-fallback.instagram.com
-wellbeing-fallback.instagram.com
-auth.instagram.com
-fc.instagram.com
-g.instagram.com
-b-fallback.i.instagram.com
-brand.instagram.com
-engineering-fallback.instagram.com
-chat-e2ee-fallback.instagram.com
-iglite-p42.c10r.instagram.com
-www.trunkstable.instagram.com
-d.ish.instagram.com
-china-geo.instagram.com
-z-p4.m.instagram.com
-z-p4-fallback.dyi.www.instagram.com
-z-p4.graph.instagram.com
-my-od-1.instagram.com
-z-p15.lookaside.instagram.com
-videos-f-7.ak.instagram.com
-z-p15.maps.instagram.com
-z-p42-fallback.dyi.www.instagram.com
-climatecommunication.latest.instagram.com
-z-p42-fallback.graph.instagram.com
-z-p4-i.instagram.com
-m.help.instagram.com
-black.instagram.com
-iran-geo-p15.instagram.com
-b.i.instagram.com
-z-p42.graph.instagram.com
-default-geo-p42.instagram.com
-graphql-fallback.instagram.com
-airtrack.secure.latest.instagram.com
-privacycenter-fallback.instagram.com
-videos-d-15.ak.instagram.com
-businessphoneservicea5.latest.instagram.com
-z-p3-fallback.www.instagram.com
-analystics.secure.latest.instagram.com
-z-p15.dyi.www.instagram.com
-secure-fallback.instagram.com
-videos-b-4.ak.instagram.com
-z-p42-reg-e2ee.instagram.com
-mail.instagram.com
-c.ns.c10r.instagram.com
-a.ns.instagram.com
-call.instagram.com
-survey.instagram.com
-i.c1.instagram.com
-z-p42.lookaside.instagram.com
-rats-facebook.beta.latest.instagram.com
-ads10jhb.secure.latest.instagram.com
-reg-e2ee.instagram.com
-upload.instagram.com
-instagram.c10r.instagram.com
-trunkstable.instagram.com
-analyzed.secure.latest.instagram.com
-c1.instagram.com
-prerelease.instagram.com
-autodiscover.instagram.com
-china-geo-p42.instagram.com
-distilleryvesper9-17.ak.instagram.com
-threads.instagram.com
-z-p42-i.instagram.com
-my-od-4.instagram.com
-streaming-graph.instagram.com
-eulauretta.instagram.com
-parents.instagram.com
-dyi.www.instagram.com
-bigzipfiles.instagram.com
-admin.instagram.com
-b.ish.instagram.com
-geo.instagram.com
-blog-fallback.instagram.com
-c.ns.instagram.com
-live-dev-fallback.instagram.com
-white-fallback.instagram.com
-z-p15.upload.instagram.com
-z-p4.i.instagram.com
-display.latest.instagram.com
-distilleryvesper2-10.ak.instagram.com
-en-gb.latest.instagram.com
-z-p42-fallback.maps.instagram.com
-threatmap.latest.instagram.com
-analytics-demo.secure.latest.instagram.com
-help-fallback.instagram.com
-videos-g-0.ak.instagram.com
-shortwave-fallback.instagram.com
-chat-e2ee.instagram.com
-business.intern.instagram.com
-e2e.instagram.com
-logger.instagram.com
-z-p15.graph.instagram.com
-imagine.instagram.com
-iglite-z.instagram.com
-z-p42-instagram.c10r.instagram.com
-z-p15-fallback.upload.instagram.com
-www-fallback.prod.instagram.com
-prod.instagram.com
-someprod.instagram.com
-videos-c-14.ak.instagram.com
-live-upload.instagram.com
-edge-chat-fallback.instagram.com
-videos-c-0.ak.instagram.com
-videos-d-2.ak.instagram.com
-z-p4-fallback.m.instagram.com
-my-od-2.instagram.com
-videos-c-11.ak.instagram.com
-maps.instagram.com
-live-dev.instagram.com
-graph-fallback.instagram.com
-b.ns.c10r.instagram.com
-z-p15-instagram.fallback.c10r.instagram.com
-iglite-z-fallback.instagram.com
-telegraph-ash.instagram.com
-upload-ec2.instagram.com
-distilleryvesper8-12.ak.instagram.com
-www.prod.instagram.com
-geo-p42-fallback.instagram.com
-tech.my-od-3.instagram.com
-unknownjapan.instagram.com
-b.secure.instagram.com
-web-chat-e2ee.instagram.com
-e.ish.instagram.com
-maps-fallback.instagram.com
-z-p4-i-fallback.instagram.com
-secure.latest.instagram.com
-iglite-d.instagram.com
-videos-f-17.ak.instagram.com
-iglite-p42.fallback.c10r.instagram.com
-www.c1.instagram.com
-web-chat-e2ee-fallback.instagram.com
-white.instagram.com
-z-p15-instagram.c10r.instagram.com
-z-p4.lookaside.instagram.com
-star.fallback.c10r.instagram.com
-guia-lima.latest.instagram.com
-b-i-fallback.instagram.com
-b-i.instagram.com
-z-p4-fallback.upload.instagram.com
-geo-p42.instagram.com
-intern.instagram.com
-applink.instagram.com
-z-p42-chat-e2ee.instagram.com
-default-geo-p15.instagram.com
-z-p4.upload.instagram.com
-grammys.instagram.com
-about-fallback.instagram.com
-z-p15-fallback.i.instagram.com
-videos-e-5.ak.instagram.com
-nen-gb.latest.instagram.com
-tpompspc.latest.instagram.com
-z-p42.upload.instagram.com
-creatorsupport.instagram.com
-checkout.instagram.com
-z-p42.i.instagram.com
-iran-geo.instagram.com
-videos-h-7.ak.instagram.com
-wallets.instagram.com
-d.ns.c10r.instagram.com
-edge-chat.instagram.com
-black-fallback.instagram.com
-m-fallback.instagram.com
-aistudio.instagram.com
-brand-fallback.instagram.com
-api-fallback.instagram.com
-employee.instagram.com
-detroitbecomehumanpcdownload.latest.instagram.com
-bigzipfiles-fallback.instagram.com
-distilleryvesper10-18.ak.instagram.com
-xweb.instagram.com
-admin-fallback.instagram.com
-aistudio-fallback.instagram.com
-unknownjapan-fallback.instagram.com
-z-p42-fallback.lookaside.instagram.com
-drc-geo-p15.instagram.com
-us-east-2.c10r.my-od-3.instagram.com
-z-p15-fallback.dyi.www.instagram.com
-z-p42-reg-e2ee-fallback.instagram.com
-instagram.com
-z-p42.dyi.www.instagram.com
-gateway-fallback.instagram.com
-live-vp-upload.instagram.com
-b.ns.instagram.com
-i.prod.instagram.com
-static.ak.instagram.com
-z-p4.dyi.www.instagram.com
-z-p4-fallback.i.instagram.com
-iran-geo-p42.instagram.com
-live-upload-fallback.instagram.com
-z-p4.maps.instagram.com
-z-p42-instagram.fallback.c10r.instagram.com
-videos-h-8.ak.instagram.com
-upload-fallback.instagram.com
-approval.instagram.com
-z-p42-fallback.i.instagram.com
-privacy-fallback.instagram.com
-my-od.instagram.com
-shortwave.instagram.com
-z-p42-fallback.upload.instagram.com
-privacy.instagram.com
-c.ish.instagram.com
-ak.instagram.com
-geo-p15-fallback.instagram.com
-z-p15-fallback.graph.instagram.com
-a.ish.instagram.com
-my-od-3.instagram.com
-adtech.secure.latest.instagram.com
-adminmc.instagram.com
-www.latest.instagram.com
-videos-d-17.ak.instagram.com
-geo-fallback.instagram.com
-preprod-fallback.instagram.com
-videos-a-9.ak.instagram.com
-drc-geo.instagram.com
-graphql.instagram.com
-default-geo.instagram.com
-z-p4-fallback.lookaside.instagram.com
-z-p15-fallback.maps.instagram.com
-i-fallback.instagram.com
-z-p4-fallback.maps.instagram.com
-safety-fallback.instagram.com
-trunkstable-fallback.instagram.com
-z-p15.m.instagram.com
-analytictrading.secure.latest.instagram.com
-china-geo-p15.instagram.com
-a.ns.c10r.instagram.com
-my-od-5.instagram.com
-z-p4-fallback.www.instagram.com
-gateway.instagram.com
-iglite-p3.c10r.instagram.com
-z-p42.maps.instagram.com
-iglite-d-fallback.instagram.com
-z-p15-fallback.lookaside.instagram.com
-iglite-p3.fallback.c10r.instagram.com
-adsurf.secure.latest.instagram.com
-z-p15-fallback.www.instagram.com
-z-p42-fallback.m.instagram.com
-live-vp-dev.instagram.com
-www-fallback.instagram.com
-drc-geo-p42.instagram.com
-adminmc-fallback.instagram.com
-ceheindependence.latest.instagram.com
-white.ish.instagram.com
-z-p42.m.instagram.com
-d.ns.instagram.com
-live-upload-staging.instagram.com
+0.0.0.0	help.instagram.com		
+0.0.0.0	privacycenter.instagram.com		
+0.0.0.0	www.instagram.com		
+0.0.0.0	www.growbeyondimagination.com		
+0.0.0.0	www.ajaypatel.com		
+0.0.0.0	m-fallback.instagram.com		
+0.0.0.0	aistudio.instagram.com		
+0.0.0.0	z-p42-static.cdninstagram.com		
+0.0.0.0	instagram.com		
+0.0.0.0	cpcalendars.impactoextremo.cl		
+0.0.0.0	www.justbookacall.com		
+0.0.0.0	instagram-p42-shv-02-iad3.fbcdn.net		
+0.0.0.0	www.impactoextremo.cl		
+0.0.0.0	z-p42-platform.cdninstagram.com		
+0.0.0.0	z-p42-scontent.cdninstagram.com		
+0.0.0.0	i.instagr.am		
+0.0.0.0	z-p42-dragon.cdninstagram.com		
+0.0.0.0	www.diezonce.co		
+0.0.0.0	www.instagr.am		
+0.0.0.0	mail.impactoextremo.cl		
+0.0.0.0	z-p42-reg-e2ee.instagram.com		
+0.0.0.0	www.herenism.com		
+0.0.0.0	z-p42-creative.cdninstagram.com		
+0.0.0.0	blog.familiebrueckner.com		
+0.0.0.0	z-p42-external.cdninstagram.com		
+0.0.0.0	www.pre.impactoextremo.cl		
+0.0.0.0	www.whoknowswho.fun		
+0.0.0.0	upload-ec2.instagram.com		
+0.0.0.0	www.brendarolim.com		
+0.0.0.0	z-p42-video.cdninstagram.com		
+0.0.0.0	b-i.instagram.com		
+0.0.0.0	www.bemestarclinica.odo.b		
+0.0.0.0	help.instagram.com		
+0.0.0.0	platform.instagram.com		
+0.0.0.0	business.instagram.com		
+0.0.0.0	about.instagram.com		
+0.0.0.0	blog.instagram.com		
+0.0.0.0	l.instagram.com		
+0.0.0.0	engineering.instagram.com		
+0.0.0.0	z-p42.www.instagram.com		
+0.0.0.0	privacycenter.instagram.com		
+0.0.0.0	hyperlapse.instagram.com		
+0.0.0.0	help.latest.instagram.com		
+0.0.0.0	graph.instagram.com		
+0.0.0.0	api.instagram.com		
+0.0.0.0	familycenter.instagram.com		
+0.0.0.0	i.instagram.com		
+0.0.0.0	badges.instagram.com		
+0.0.0.0	creators.instagram.com		
+0.0.0.0	secure.instagram.com		
+0.0.0.0	community.instagram.com		
+0.0.0.0	wellbeing.instagram.com		
+0.0.0.0	z-p15.www.instagram.com		
+0.0.0.0	developers.instagram.com		
+0.0.0.0	z-p3.www.instagram.com		
+0.0.0.0	accountscenter.instagram.com		
+0.0.0.0	distilleryimage9.instagram.com		
+0.0.0.0	z-p4.www.instagram.com		
+0.0.0.0	m.instagram.com		
+0.0.0.0	distilleryimage4.ak.instagram.com		
+0.0.0.0	photos-h.ak.instagram.com		
+0.0.0.0	images.instagram.com		
+0.0.0.0	photos-b.ak.instagram.com		
+0.0.0.0	lookaside.instagram.com		
+0.0.0.0	photos-a.ak.instagram.com		
+0.0.0.0	photos-d.ak.instagram.com		
+0.0.0.0	preprod.instagram.com		
+0.0.0.0	photos-f.ak.instagram.com		
+0.0.0.0	photos-e.ak.instagram.com		
+0.0.0.0	distilleryimage6.instagram.com		
+0.0.0.0	distilleryimage10.instagram.com		
+0.0.0.0	z-p15.i.instagram.com		
+0.0.0.0	safety.instagram.com		
+0.0.0.0	images.ak.instagram.com		
+0.0.0.0	videos-g-17.ak.instagram.com		
+0.0.0.0	distilleryimage2.ak.instagram.com		
+0.0.0.0	distilleryvesper4-0.ak.instagram.com		
+0.0.0.0	distilleryvesper3-15.ak.instagram.com		
+0.0.0.0	www.instagram.com		
+0.0.0.0	developers-fallback.instagram.com		
+0.0.0.0	coloredlogs.beta.latest.instagram.com		
+0.0.0.0	z-p4-fallback.graph.instagram.com		
+0.0.0.0	distilleryvesper2-2.ak.instagram.com		
+0.0.0.0	prod-fallback.instagram.com		
+0.0.0.0	www.someprod.instagram.com		
+0.0.0.0	nsecure.latest.instagram.com		
+0.0.0.0	nhelp.latest.instagram.com		
+0.0.0.0	www-fallback.trunkstable.instagram.com		
+0.0.0.0	help.hyperlase.beta.latest.instagram.com		
+0.0.0.0	z-p42-chat-e2ee-fallback.instagram.com		
+0.0.0.0	z-p42-i-fallback.instagram.com		
+0.0.0.0	geo-p15.instagram.com		
+0.0.0.0	z-p42-fallback.www.instagram.com		
+0.0.0.0	reg-e2ee-fallback.instagram.com		
+0.0.0.0	z-p15-fallback.m.instagram.com		
+0.0.0.0	live-upload-staging-fallback.instagram.com		
+0.0.0.0	wellbeing-fallback.instagram.com		
+0.0.0.0	auth.instagram.com		
+0.0.0.0	fc.instagram.com		
+0.0.0.0	g.instagram.com		
+0.0.0.0	b-fallback.i.instagram.com		
+0.0.0.0	brand.instagram.com		
+0.0.0.0	engineering-fallback.instagram.com		
+0.0.0.0	chat-e2ee-fallback.instagram.com		
+0.0.0.0	iglite-p42.c10r.instagram.com		
+0.0.0.0	www.trunkstable.instagram.com		
+0.0.0.0	d.ish.instagram.com		
+0.0.0.0	china-geo.instagram.com		
+0.0.0.0	z-p4.m.instagram.com		
+0.0.0.0	z-p4-fallback.dyi.www.instagram.com		
+0.0.0.0	z-p4.graph.instagram.com		
+0.0.0.0	my-od-1.instagram.com		
+0.0.0.0	z-p15.lookaside.instagram.com		
+0.0.0.0	videos-f-7.ak.instagram.com		
+0.0.0.0	z-p15.maps.instagram.com		
+0.0.0.0	z-p42-fallback.dyi.www.instagram.com		
+0.0.0.0	climatecommunication.latest.instagram.com		
+0.0.0.0	z-p42-fallback.graph.instagram.com		
+0.0.0.0	z-p4-i.instagram.com		
+0.0.0.0	m.help.instagram.com		
+0.0.0.0	black.instagram.com		
+0.0.0.0	iran-geo-p15.instagram.com		
+0.0.0.0	b.i.instagram.com		
+0.0.0.0	z-p42.graph.instagram.com		
+0.0.0.0	default-geo-p42.instagram.com		
+0.0.0.0	graphql-fallback.instagram.com		
+0.0.0.0	airtrack.secure.latest.instagram.com		
+0.0.0.0	privacycenter-fallback.instagram.com		
+0.0.0.0	videos-d-15.ak.instagram.com		
+0.0.0.0	businessphoneservicea5.latest.instagram.com		
+0.0.0.0	z-p3-fallback.www.instagram.com		
+0.0.0.0	analystics.secure.latest.instagram.com		
+0.0.0.0	z-p15.dyi.www.instagram.com		
+0.0.0.0	secure-fallback.instagram.com		
+0.0.0.0	videos-b-4.ak.instagram.com		
+0.0.0.0	z-p42-reg-e2ee.instagram.com		
+0.0.0.0	mail.instagram.com		
+0.0.0.0	c.ns.c10r.instagram.com		
+0.0.0.0	a.ns.instagram.com		
+0.0.0.0	call.instagram.com		
+0.0.0.0	survey.instagram.com		
+0.0.0.0	i.c1.instagram.com		
+0.0.0.0	z-p42.lookaside.instagram.com		
+0.0.0.0	rats-facebook.beta.latest.instagram.com		
+0.0.0.0	ads10jhb.secure.latest.instagram.com		
+0.0.0.0	reg-e2ee.instagram.com		
+0.0.0.0	upload.instagram.com		
+0.0.0.0	instagram.c10r.instagram.com		
+0.0.0.0	trunkstable.instagram.com		
+0.0.0.0	analyzed.secure.latest.instagram.com		
+0.0.0.0	c1.instagram.com		
+0.0.0.0	prerelease.instagram.com		
+0.0.0.0	autodiscover.instagram.com		
+0.0.0.0	china-geo-p42.instagram.com		
+0.0.0.0	distilleryvesper9-17.ak.instagram.com		
+0.0.0.0	threads.instagram.com		
+0.0.0.0	z-p42-i.instagram.com		
+0.0.0.0	my-od-4.instagram.com		
+0.0.0.0	streaming-graph.instagram.com		
+0.0.0.0	eulauretta.instagram.com		
+0.0.0.0	parents.instagram.com		
+0.0.0.0	dyi.www.instagram.com		
+0.0.0.0	bigzipfiles.instagram.com		
+0.0.0.0	admin.instagram.com		
+0.0.0.0	b.ish.instagram.com		
+0.0.0.0	geo.instagram.com		
+0.0.0.0	blog-fallback.instagram.com		
+0.0.0.0	c.ns.instagram.com		
+0.0.0.0	live-dev-fallback.instagram.com		
+0.0.0.0	white-fallback.instagram.com		
+0.0.0.0	z-p15.upload.instagram.com		
+0.0.0.0	z-p4.i.instagram.com		
+0.0.0.0	display.latest.instagram.com		
+0.0.0.0	distilleryvesper2-10.ak.instagram.com		
+0.0.0.0	en-gb.latest.instagram.com		
+0.0.0.0	z-p42-fallback.maps.instagram.com		
+0.0.0.0	threatmap.latest.instagram.com		
+0.0.0.0	analytics-demo.secure.latest.instagram.com		
+0.0.0.0	help-fallback.instagram.com		
+0.0.0.0	videos-g-0.ak.instagram.com		
+0.0.0.0	shortwave-fallback.instagram.com		
+0.0.0.0	chat-e2ee.instagram.com		
+0.0.0.0	business.intern.instagram.com		
+0.0.0.0	e2e.instagram.com		
+0.0.0.0	logger.instagram.com		
+0.0.0.0	z-p15.graph.instagram.com		
+0.0.0.0	imagine.instagram.com		
+0.0.0.0	iglite-z.instagram.com		
+0.0.0.0	z-p42-instagram.c10r.instagram.com		
+0.0.0.0	z-p15-fallback.upload.instagram.com		
+0.0.0.0	www-fallback.prod.instagram.com		
+0.0.0.0	prod.instagram.com		
+0.0.0.0	someprod.instagram.com		
+0.0.0.0	videos-c-14.ak.instagram.com		
+0.0.0.0	live-upload.instagram.com		
+0.0.0.0	edge-chat-fallback.instagram.com		
+0.0.0.0	videos-c-0.ak.instagram.com		
+0.0.0.0	videos-d-2.ak.instagram.com		
+0.0.0.0	z-p4-fallback.m.instagram.com		
+0.0.0.0	my-od-2.instagram.com		
+0.0.0.0	videos-c-11.ak.instagram.com		
+0.0.0.0	maps.instagram.com		
+0.0.0.0	live-dev.instagram.com		
+0.0.0.0	graph-fallback.instagram.com		
+0.0.0.0	b.ns.c10r.instagram.com		
+0.0.0.0	z-p15-instagram.fallback.c10r.instagram.com		
+0.0.0.0	iglite-z-fallback.instagram.com		
+0.0.0.0	telegraph-ash.instagram.com		
+0.0.0.0	upload-ec2.instagram.com		
+0.0.0.0	distilleryvesper8-12.ak.instagram.com		
+0.0.0.0	www.prod.instagram.com		
+0.0.0.0	geo-p42-fallback.instagram.com		
+0.0.0.0	tech.my-od-3.instagram.com		
+0.0.0.0	unknownjapan.instagram.com		
+0.0.0.0	b.secure.instagram.com		
+0.0.0.0	web-chat-e2ee.instagram.com		
+0.0.0.0	e.ish.instagram.com		
+0.0.0.0	maps-fallback.instagram.com		
+0.0.0.0	z-p4-i-fallback.instagram.com		
+0.0.0.0	secure.latest.instagram.com		
+0.0.0.0	iglite-d.instagram.com		
+0.0.0.0	videos-f-17.ak.instagram.com		
+0.0.0.0	iglite-p42.fallback.c10r.instagram.com		
+0.0.0.0	www.c1.instagram.com		
+0.0.0.0	web-chat-e2ee-fallback.instagram.com		
+0.0.0.0	white.instagram.com		
+0.0.0.0	z-p15-instagram.c10r.instagram.com		
+0.0.0.0	z-p4.lookaside.instagram.com		
+0.0.0.0	star.fallback.c10r.instagram.com		
+0.0.0.0	guia-lima.latest.instagram.com		
+0.0.0.0	b-i-fallback.instagram.com		
+0.0.0.0	b-i.instagram.com		
+0.0.0.0	z-p4-fallback.upload.instagram.com		
+0.0.0.0	geo-p42.instagram.com		
+0.0.0.0	intern.instagram.com		
+0.0.0.0	applink.instagram.com		
+0.0.0.0	z-p42-chat-e2ee.instagram.com		
+0.0.0.0	default-geo-p15.instagram.com		
+0.0.0.0	z-p4.upload.instagram.com		
+0.0.0.0	grammys.instagram.com		
+0.0.0.0	about-fallback.instagram.com		
+0.0.0.0	z-p15-fallback.i.instagram.com		
+0.0.0.0	videos-e-5.ak.instagram.com		
+0.0.0.0	nen-gb.latest.instagram.com		
+0.0.0.0	tpompspc.latest.instagram.com		
+0.0.0.0	z-p42.upload.instagram.com		
+0.0.0.0	creatorsupport.instagram.com		
+0.0.0.0	checkout.instagram.com		
+0.0.0.0	z-p42.i.instagram.com		
+0.0.0.0	iran-geo.instagram.com		
+0.0.0.0	videos-h-7.ak.instagram.com		
+0.0.0.0	wallets.instagram.com		
+0.0.0.0	d.ns.c10r.instagram.com		
+0.0.0.0	edge-chat.instagram.com		
+0.0.0.0	black-fallback.instagram.com		
+0.0.0.0	m-fallback.instagram.com		
+0.0.0.0	aistudio.instagram.com		
+0.0.0.0	brand-fallback.instagram.com		
+0.0.0.0	api-fallback.instagram.com		
+0.0.0.0	employee.instagram.com		
+0.0.0.0	detroitbecomehumanpcdownload.latest.instagram.com		
+0.0.0.0	bigzipfiles-fallback.instagram.com		
+0.0.0.0	distilleryvesper10-18.ak.instagram.com		
+0.0.0.0	xweb.instagram.com		
+0.0.0.0	admin-fallback.instagram.com		
+0.0.0.0	aistudio-fallback.instagram.com		
+0.0.0.0	unknownjapan-fallback.instagram.com		
+0.0.0.0	z-p42-fallback.lookaside.instagram.com		
+0.0.0.0	drc-geo-p15.instagram.com		
+0.0.0.0	us-east-2.c10r.my-od-3.instagram.com		
+0.0.0.0	z-p15-fallback.dyi.www.instagram.com		
+0.0.0.0	z-p42-reg-e2ee-fallback.instagram.com		
+0.0.0.0	instagram.com		
+0.0.0.0	z-p42.dyi.www.instagram.com		
+0.0.0.0	gateway-fallback.instagram.com		
+0.0.0.0	live-vp-upload.instagram.com		
+0.0.0.0	b.ns.instagram.com		
+0.0.0.0	i.prod.instagram.com		
+0.0.0.0	static.ak.instagram.com		
+0.0.0.0	z-p4.dyi.www.instagram.com		
+0.0.0.0	z-p4-fallback.i.instagram.com		
+0.0.0.0	iran-geo-p42.instagram.com		
+0.0.0.0	live-upload-fallback.instagram.com		
+0.0.0.0	z-p4.maps.instagram.com		
+0.0.0.0	z-p42-instagram.fallback.c10r.instagram.com		
+0.0.0.0	videos-h-8.ak.instagram.com		
+0.0.0.0	upload-fallback.instagram.com		
+0.0.0.0	approval.instagram.com		
+0.0.0.0	z-p42-fallback.i.instagram.com		
+0.0.0.0	privacy-fallback.instagram.com		
+0.0.0.0	my-od.instagram.com		
+0.0.0.0	shortwave.instagram.com		
+0.0.0.0	z-p42-fallback.upload.instagram.com		
+0.0.0.0	privacy.instagram.com		
+0.0.0.0	c.ish.instagram.com		
+0.0.0.0	ak.instagram.com		
+0.0.0.0	geo-p15-fallback.instagram.com		
+0.0.0.0	z-p15-fallback.graph.instagram.com		
+0.0.0.0	a.ish.instagram.com		
+0.0.0.0	my-od-3.instagram.com		
+0.0.0.0	adtech.secure.latest.instagram.com		
+0.0.0.0	adminmc.instagram.com		
+0.0.0.0	www.latest.instagram.com		
+0.0.0.0	videos-d-17.ak.instagram.com		
+0.0.0.0	geo-fallback.instagram.com		
+0.0.0.0	preprod-fallback.instagram.com		
+0.0.0.0	videos-a-9.ak.instagram.com		
+0.0.0.0	drc-geo.instagram.com		
+0.0.0.0	graphql.instagram.com		
+0.0.0.0	default-geo.instagram.com		
+0.0.0.0	z-p4-fallback.lookaside.instagram.com		
+0.0.0.0	z-p15-fallback.maps.instagram.com		
+0.0.0.0	i-fallback.instagram.com		
+0.0.0.0	z-p4-fallback.maps.instagram.com		
+0.0.0.0	safety-fallback.instagram.com		
+0.0.0.0	trunkstable-fallback.instagram.com		
+0.0.0.0	z-p15.m.instagram.com		
+0.0.0.0	analytictrading.secure.latest.instagram.com		
+0.0.0.0	china-geo-p15.instagram.com		
+0.0.0.0	a.ns.c10r.instagram.com		
+0.0.0.0	my-od-5.instagram.com		
+0.0.0.0	z-p4-fallback.www.instagram.com		
+0.0.0.0	gateway.instagram.com		
+0.0.0.0	iglite-p3.c10r.instagram.com		
+0.0.0.0	z-p42.maps.instagram.com		
+0.0.0.0	iglite-d-fallback.instagram.com		
+0.0.0.0	z-p15-fallback.lookaside.instagram.com		
+0.0.0.0	iglite-p3.fallback.c10r.instagram.com		
+0.0.0.0	adsurf.secure.latest.instagram.com		
+0.0.0.0	z-p15-fallback.www.instagram.com		
+0.0.0.0	z-p42-fallback.m.instagram.com		
+0.0.0.0	live-vp-dev.instagram.com		
+0.0.0.0	www-fallback.instagram.com		
+0.0.0.0	drc-geo-p42.instagram.com		
+0.0.0.0	adminmc-fallback.instagram.com		
+0.0.0.0	ceheindependence.latest.instagram.com		
+0.0.0.0	white.ish.instagram.com		
+0.0.0.0	z-p42.m.instagram.com		
+0.0.0.0	d.ns.instagram.com		
+0.0.0.0	live-upload-staging.instagram.com		
