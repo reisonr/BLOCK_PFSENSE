@@ -1,5 +1,6 @@
 apps.odoo.com
 galeriaavanti.odoo.com/es_VE/web/login
+galeriaavanti.odoo.com/web#cids=1&menu_id=204&model=product.product&action=import
 galeriaavanti.odoo.com
 odoo.com
 demo.odoo.com
