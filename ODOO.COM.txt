@@ -1,4 +1,6 @@
 apps.odoo.com
+galeriaavanti.odoo.com/es_VE/web/login
+galeriaavanti.odoo.com
 odoo.com
 demo.odoo.com
 odoospain.odoo.com
