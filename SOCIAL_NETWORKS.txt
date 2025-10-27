@@ -1,6 +1,9 @@
 # SOCIAL_NETWORKS
 
 0.0.0.0	10tune.com
+0.0.0.0	elfarodelmorro.net
+0.0.0.0	www.ciudadgoticanews.com
+0.0.0.0	ciudadgoticanews.com
 0.0.0.0	2threads.com
 0.0.0.0	360.yahoo.com
 0.0.0.0	43things.com
@@ -703,3 +706,4 @@
 0.0.0.0	zooomr.com
 0.0.0.0	zooppa.com
 0.0.0.0	zurpy.com
+
