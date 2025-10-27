@@ -1,0 +1,8 @@
+# Paginas No Deseadas
+
+
+0.0.0.0 elfarodelmorro.net
+0.0.0.0 www.ciudadgoticanews.com
+0.0.0.0 https://elfarodelmorro.net/
+0.0.0.0 https://www.ciudadgoticanews.com/
+0.0.0.0 ciudadgoticanews.com
