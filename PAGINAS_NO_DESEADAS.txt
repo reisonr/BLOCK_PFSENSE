@@ -6,3 +6,12 @@
 0.0.0.0 https://elfarodelmorro.net/
 0.0.0.0 https://www.ciudadgoticanews.com/
 0.0.0.0 ciudadgoticanews.com
+0.0.0.0 s.wps.com
+0.0.0.0 us.docworkspace.com
+0.0.0.0 wps.comwdl1.pcfg.cache.wpscdn.com
+0.0.0.0 wpscdn.com
+0.0.0.0 eu.docs.wps.com
+0.0.0.0 ai.wps.com
+0.0.0.0 kdocs.cn
+0.0.0.0 wpscdn.cn
+0.0.0.0 wps.cn
